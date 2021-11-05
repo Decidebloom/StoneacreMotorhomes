@@ -1,0 +1,2 @@
+
+2021-11-03 15:25:20 - Cannot access cache file when tested. Tested file: http://localhost:8000/wp-content/uploads/pum/pum-site-styles.css Error given: cURL error 28: Operation timed out after 5000 milliseconds with 0 bytes received
